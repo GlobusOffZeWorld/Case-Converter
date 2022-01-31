@@ -1,0 +1,14 @@
+.change-case {
+    border: 0;
+    margin: 0;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: coral;
+}
+
+#buttons {
+    display: flex;
+
+    background-color: green;
+    width: fit-content;
+}
